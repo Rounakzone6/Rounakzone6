@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="#"><img src="images/bannner.png"></a>
+  <a href="#"><img src="images/banner.png"></a>
 </p>
 
 ## 🔗 **CONNECT**
